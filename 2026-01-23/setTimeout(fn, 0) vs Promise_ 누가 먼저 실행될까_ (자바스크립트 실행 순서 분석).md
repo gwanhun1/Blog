@@ -101,8 +101,12 @@ heavyLoop();
 
 따라서 무거운 작업을 비동기로 처리할 때는 우선순위를 고려하여 `setTimeout`이나 `scheduler.postTask` 등을 적절히 혼합해 사용하는 전략이 필요합니다.
 
----
 
+
+![Event-Loop-in-JavaScript.jpg](https://res.cloudinary.com/dcfqahfbr/image/upload/v1769129493/cvlog/posts/qwjjqj75ooq7ul5yc1ar.jpg)
+
+
+---
 ## 5. 핵심 요약
 
 자바스크립트의 비동기 처리 로직을 설계할 때 기억해야 할 핵심 원칙은 다음과 같습니다.
