@@ -81,3 +81,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [GPT-6 Astra vs Claude Fable 5.1 vs Gemini 3.8 Flash: The 2026 AI Model Race Is No Longer About Benchmarks](2026-09-09/75.md)
 
 - [2026년, 개발자가 주목해야 할 AI 인사이트 5가지](2026-06-30/33.md)
+
+- [curl은 왜 한 달 동안 버그 제보를 껐을까 — 병목은 생성이 아니라 '검증'이다](2026-07-07/40.md)
