@@ -1,3 +1,5 @@
+![Astryx 디자인 시스템](https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png)
+
 Meta가 조용히 디자인 시스템 하나를 오픈소스로 공개했다. 이름은 **Astryx**. React와 StyleX 기반이고, 완전한 커스터마이징과 접근성·브랜드 테마를 내세운다. 아직 베타다.
 
 여기까지면 '또 하나의 컴포넌트 라이브러리'로 넘길 수도 있다. 그런데 공식 소개 문구에 낯선 단어가 하나 박혀 있다 — **"fully customizable and agent ready"**. 커스터마이징이야 모든 디자인 시스템이 내세우는 말이지만, '에이전트 대응(agent ready)'은 다르다.
