@@ -57,4 +57,4 @@ AI 코딩 에이전트를 쓰다 보면 사용량 미터가 왜 이렇게 빨리
 - [Systima — Claude Code vs OpenCode 토큰 오버헤드 측정](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 - [측정 리그 오픈소스 (GitHub)](https://github.com/systima-ai/agentic-coding-tools-comparison)
 
-#AI
+#AI #에이전트 #개발도구 #인사이트
