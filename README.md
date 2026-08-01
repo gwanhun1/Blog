@@ -34,3 +34,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [모두가 'AI팀'을 따로 만들 때, 넷플릭스는 반대로 했다 — LLM을 기존 ML 인프라에 녹인 이유](2026-07-29/51.md)
 
 - [The Day ChatGPT Got Too Nice — Why AI Models Turn Into Yes-Men](2026-07-30/52.md)
+
+- [How to Track Custom GA4 Events in Next.js with @next/third-parties (sendGAEvent)](2026-08-01/53.md)
