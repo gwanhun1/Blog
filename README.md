@@ -36,3 +36,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [The Day ChatGPT Got Too Nice — Why AI Models Turn Into Yes-Men](2026-07-30/52.md)
 
 - [How to Track Custom GA4 Events in Next.js with @next/third-parties (sendGAEvent)](2026-08-01/53.md)
+
+- [2026년 코딩 AI, 결국 뭘 써야 할까 — Claude Code vs GPT vs Gemini vs Qwen 실전 정리](2026-08-03/54.md)
