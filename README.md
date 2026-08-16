@@ -46,3 +46,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [AI 에이전트 전쟁 2026: Grok 4.5·Muse Spark 1.1·Claude가 한국 개발자를 노리는 이유](2026-08-14/57.md)
 
 - [AI 에이전트 전쟁 2026: Grok 4.5·Muse Spark 1.1·Claude가 한국 개발자를 노리는 이유](2026-08-14/58.md)
+
+- [ai-model-price-war-2026-gpt-5-6-claude-sonnet-5-grok-4-5](2026-08-16/59.md)
