@@ -52,3 +52,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [A2A + MCP: The Protocol Stack That Could Make AI Agents Interoperable](2026-08-19/60.md)
 
 - [그래프 엔지니어링이 뜨는 이유: GraphRAG 시대의 진짜 경쟁력은 관계 데이터다](2026-08-20/61.md)
+
+- [한국 AI 3파전 본격화: 업스테이지·SKT·LG AI연구원, 독자 AI 2단계 통과](2026-08-20/62.md)
