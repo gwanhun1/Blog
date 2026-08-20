@@ -50,3 +50,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [ai-model-price-war-2026-gpt-5-6-claude-sonnet-5-grok-4-5](2026-08-16/59.md)
 
 - [A2A + MCP: The Protocol Stack That Could Make AI Agents Interoperable](2026-08-19/60.md)
+
+- [그래프 엔지니어링이 뜨는 이유: GraphRAG 시대의 진짜 경쟁력은 관계 데이터다](2026-08-20/61.md)
