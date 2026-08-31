@@ -64,3 +64,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Assistants API가 오늘 종료된다: Responses API로 마이그레이션할 때 놓치기 쉬운 7가지](2026-08-26/66.md)
 
 - [Salesforce가 앱을 기능으로 바꾼다: Headless 360과 MCP가 AI 에이전트 개발을 바꾸는 방식](2026-08-27/67.md)
+
+- [OpenAI·Hugging Face AI 에이전트 침해 사고: 샌드박스가 무너진 이유와 개발자가 바꿔야 할 7가지](2026-08-31/68.md)
