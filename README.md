@@ -70,3 +70,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [GPT-5.6's Price Reset Changes AI Architecture: A Practical Guide to Model Routing in 2026](2026-09-01/69.md)
 
 - [Claude Fable 5.1 and Mythos 5.1: The Model Upgrade Is Really a Workflow Upgrade](2026-09-04/70.md)
+
+- [Gemini 3.8 Flash: Google’s Low-Cost Model Is Turning Agent Speed into a Design Constraint](2026-09-04/71.md)
