@@ -74,3 +74,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Gemini 3.8 Flash: Google’s Low-Cost Model Is Turning Agent Speed into a Design Constraint](2026-09-04/71.md)
 
 - [GPT-6 Astra Is Here: What Developers Need to Change Before They Ship an Agent](2026-09-04/72.md)
+
+- [OpenAI ‘AI 연구 인턴’ 등장: AI가 AI를 연구하는 시대는 어디까지 왔나](2026-09-07/73.md)
