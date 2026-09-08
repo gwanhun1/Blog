@@ -76,3 +76,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [GPT-6 Astra Is Here: What Developers Need to Change Before They Ship an Agent](2026-09-04/72.md)
 
 - [OpenAI ‘AI 연구 인턴’ 등장: AI가 AI를 연구하는 시대는 어디까지 왔나](2026-09-07/73.md)
+
+- [Gemini 에이전틱 비디오 이해: 긴 영상을 최대 88% 적은 토큰으로 읽는 방식](2026-09-08/74.md)
