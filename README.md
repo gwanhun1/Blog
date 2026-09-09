@@ -78,3 +78,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [OpenAI ‘AI 연구 인턴’ 등장: AI가 AI를 연구하는 시대는 어디까지 왔나](2026-09-07/73.md)
 
 - [Gemini 에이전틱 비디오 이해: 긴 영상을 최대 88% 적은 토큰으로 읽는 방식](2026-09-08/74.md)
+
+- [GPT-6 Astra vs Claude Fable 5.1 vs Gemini 3.8 Flash: The 2026 AI Model Race Is No Longer About Benchmarks](2026-09-09/75.md)
