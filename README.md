@@ -91,3 +91,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [ChatGPT Images 2.5 출시](2026-09-10/76.md)
 
 - [OpenAI Agents API 출시: Codex 하네스를 API 한 번으로 빌리는 시대](2026-09-12/77.md)
+
+- [Microsoft Humanist AI 공개: ‘종료 명령을 거부하지 말라’는 규칙은 테스트할 수 있을까](2026-09-16/78.md)
