@@ -95,3 +95,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Microsoft Humanist AI 공개: ‘종료 명령을 거부하지 말라’는 규칙은 테스트할 수 있을까](2026-09-16/78.md)
 
 - [Meta Muse AI Review: The Real Product Is Trust, Not Intelligence](2026-09-16/79.md)
+
+- [Claude Now Leads 26% of Anthropic’s AI R&D—But It Is Not Building Itself Yet](2026-09-18/80.md)
