@@ -99,3 +99,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Claude Now Leads 26% of Anthropic’s AI R&D—But It Is Not Building Itself Yet](2026-09-18/80.md)
 
 - [Gemini 3.8 Live vs Extended Thinking: 차이와 음성 AI 개발 시 주의점](2026-09-20/81.md)
+
+- [Anthropic·Accenture의 AI 독립 평가, 비용을 Anthropic이 낸다면?](2026-09-21/82.md)
