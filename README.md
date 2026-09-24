@@ -101,3 +101,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Gemini 3.8 Live vs Extended Thinking: 차이와 음성 AI 개발 시 주의점](2026-09-20/81.md)
 
 - [Anthropic·Accenture의 AI 독립 평가, 비용을 Anthropic이 낸다면?](2026-09-21/82.md)
+
+- [Claude Opus 5.5 출시: ‘비용 40% 감소’와 API 가격 인하는 다르다](2026-09-24/83.md)
