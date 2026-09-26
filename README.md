@@ -103,3 +103,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Anthropic·Accenture의 AI 독립 평가, 비용을 Anthropic이 낸다면?](2026-09-21/82.md)
 
 - [Claude Opus 5.5 출시: ‘비용 40% 감소’와 API 가격 인하는 다르다](2026-09-24/83.md)
+
+- [Claude 플러그인 등록 포털 공개: MCP·Skills 차이와 제출 전 확인할 것](2026-09-26/84.md)
