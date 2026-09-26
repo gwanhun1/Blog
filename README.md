@@ -74,7 +74,6 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 
 - [Gemini 에이전틱 비디오 이해: 긴 영상을 최대 88% 적은 토큰으로 읽는 방식](2026-09-08/74.md)
 
-- [GPT-6 Astra vs Claude Fable 5.1 vs Gemini 3.8 Flash: The 2026 AI Model Race Is No Longer About Benchmarks](2026-09-09/75.md)
 
 - [2026년, 개발자가 주목해야 할 AI 인사이트 5가지](2026-06-30/33.md)
 
@@ -105,3 +104,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Claude Opus 5.5 출시: ‘비용 40% 감소’와 API 가격 인하는 다르다](2026-09-24/83.md)
 
 - [Claude 플러그인 등록 포털 공개: MCP·Skills 차이와 제출 전 확인할 것](2026-09-26/84.md)
+
+- [GPT-6 Astra vs Claude Fable 5.1 vs Gemini 3.8 Flash: The 2026 AI Model Race Is No Longer About Benchmarks](2026-09-09/75.md)
