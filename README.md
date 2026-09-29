@@ -108,3 +108,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [GPT-6 Astra vs Claude Fable 5.1 vs Gemini 3.8 Flash: The 2026 AI Model Race Is No Longer About Benchmarks](2026-09-09/75.md)
 
 - [Gemini Live Avatar 공개: AI 상담원에게 얼굴이 꼭 필요할까?](2026-09-28/85.md)
+
+- [Claude Sonnet 5.5 출시: 왜 Max 추론이 오히려 코딩 점수를 낮췄을까?](2026-09-29/86.md)
