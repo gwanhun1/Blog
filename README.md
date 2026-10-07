@@ -120,3 +120,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Gemini 4 Argon 공개: 지금 쓸 수 있나? 100만 출력 토큰과 가격까지](2026-10-04/89.md)
 
 - [ChatGPT Dots vs Claude vs Gemini: Which AI Agent Actually Fits Your Work?](2026-10-04/90.md)
+
+- [Claude Code Mods 등장: AI를 꾸미는 줄 알았는데, 실행 권한까지 바뀐다](2026-10-07/91.md)
