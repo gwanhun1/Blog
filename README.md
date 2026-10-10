@@ -124,3 +124,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Claude Code Mods 등장: AI를 꾸미는 줄 알았는데, 실행 권한까지 바뀐다](2026-10-07/91.md)
 
 - [Claude Haiku 5.5 가격, 정말 저렴할까? 10만 토큰에서 달라지는 계산](2026-10-10/92.md)
+
+- [Did Gemini Remove Free Pro Access? What Google's Auto Mode Actually Changes](2026-10-10/93.md)
