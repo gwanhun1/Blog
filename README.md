@@ -128,3 +128,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Did Gemini Remove Free Pro Access? What Google's Auto Mode Actually Changes](2026-10-10/93.md)
 
 - [이메일 주소를 가진 AI 동료: Google Gemini agent가 바꾸려는 일](2026-10-12/94.md)
+
+- [Meta Muse Wonder vs Wonder Full: API Pricing and the Access Catch](2026-10-13/95.md)
