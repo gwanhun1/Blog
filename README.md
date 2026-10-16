@@ -132,3 +132,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Meta Muse Wonder vs Wonder Full: API Pricing and the Access Catch](2026-10-13/95.md)
 
 - [Gemini 4 Argon Is Rolling Out: Can You Use It With Google AI Pro?](2026-10-14/96.md)
+
+- [Meta’s Muse Spark Open Is Here—But Is It Actually Free to Use?](2026-10-16/97.md)
