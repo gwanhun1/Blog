@@ -136,3 +136,5 @@ LOGME 블로그에서 자동 동기화되는 저장소입니다.
 - [Meta’s Muse Spark Open Is Here—But Is It Actually Free to Use?](2026-10-16/97.md)
 
 - [SPA 성능 측정이 달라진다: 첫 로딩 이후를 보는 Soft Navigation](2026-10-26/98.md)
+
+- [버튼 옆 설명창에 JavaScript가 꼭 필요할까? CSS 앵커 포지셔닝 활용법](2026-10-27/99.md)
